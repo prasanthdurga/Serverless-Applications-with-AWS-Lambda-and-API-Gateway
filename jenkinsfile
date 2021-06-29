@@ -23,7 +23,7 @@ pipeline {
                  script{
                         dir("terraform")
                         {
-                            git "https://github.com/easyawslearn/Terraform-Tutorial.git"
+                            git "https://github.com/prasanthdurga/Serverless-Applications-with-AWS-Lambda-and-API-Gateway.git"
                         }
                     }
                 }
